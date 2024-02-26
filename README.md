@@ -19,6 +19,6 @@
 
   `ng serve`
 
--Run the db.json in order to access the content
+- Run the db.json in order to access the content
 
   `json-server --watch db.json`
